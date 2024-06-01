@@ -20,7 +20,7 @@
       </div>
       <div class="text-area">
         <span>
-          可直接截图并粘贴或拖拽到这里，仅限gif、jpeg、jpg、png，图片限制5M以内
+          You can directly take a screenshot and paste or drag it here & support uploads only gif、jpeg、jpg、png，Picture limit is within 5M
         </span>
       </div>
       <div class="upload-btn">
