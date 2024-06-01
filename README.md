@@ -1,8 +1,8 @@
 # Host Image
 
-site: https://host-image.pages.dev/
+**Free image hosting, using Cloudflare Pages and Telegraph, UI and Cloudflare Functions from [here](https://github.com/cf-pages/Telegraph-Image)**
 
-Free image hosting, using Cloudflare Pages and Telegraph, UI and Cloudflare Functions from [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image)
+site: https://host-image.pages.dev/
 
 ## Feature
 
