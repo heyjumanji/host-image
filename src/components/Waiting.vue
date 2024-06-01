@@ -25,17 +25,17 @@
       </div>
       <div class="upload-btn">
         <el-button class="ml-3" round type="primary">
-          选择上传图片
+          Select upload Image!
         </el-button>
       </div>
     </el-upload>
     <div class="advanced" @click.stop>
       <el-tooltip
           effect="light"
-          content="图片大小超过限制会自动进行压缩"
+          content="If the image size exceeds the limit, it will be automatically compressed."
           placement="top-start"
       >
-        <el-checkbox class="compress" v-model="compress" size="small"  @click.stop>压缩图片</el-checkbox>
+        <el-checkbox class="compress" v-model="compress" size="small"  @click.stop>Compress Pictures</el-checkbox>
       </el-tooltip>
     </div>
   </div>
