@@ -50,7 +50,7 @@ const markdownUrl = computed(() => {
 })
 
 const htmlUrl = computed(() => {
-  return `<img src="${url.value}" />`
+  return `<img src="${url.value}">`
 })
 
 
