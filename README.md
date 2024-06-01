@@ -7,12 +7,11 @@ site: https://host-image.pages.dev/
 ## Feature
 
 1. Free & Unlimited
-2. Free & Unlimited
-3. Drag & Drop to upload
-4. Copy & Paste to upload
-5. Supported formats: image/video/GIF, Max file size is 5MB
-6. Compress image
-7. Image Moderation and filters, No adult content
+2. Drag & Drop to upload
+3. Copy & Paste to upload
+4. Supported formats: image/video/GIF, Max file size is 5MB
+5. Compress image
+6. Image Moderation and filters, No adult content
 
 ## Screenshot
 
