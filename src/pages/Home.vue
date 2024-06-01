@@ -2,13 +2,13 @@
   <div id="box">
     <wallpapers/>
     <div class="header">
-      <a href="https://github.com/xkrfer/Telegraph-Image-Pages" target="_blank"></a>
+      <a href="https://github.com/heyjumanji/host-image" target="_blank"></a>
     </div>
     <div class="main">
       <Upload/>
     </div>
     <div class="footer">
-      基于 <a href="https://telegra.ph" target="_blank">Telegraph</a> 的图片上传工具，UI来自 <a href="https://github.com/cf-pages/Telegraph-Image" target="_blank">Telegraph-Image</a>
+      based on <a href="https://telegra.ph" target="_blank">Telegraph</a> 的图片上传工具，UI来自 <a href="https://github.com/cf-pages/Telegraph-Image" target="_blank">Telegraph-Image</a>
     </div>
   </div>
 </template>
