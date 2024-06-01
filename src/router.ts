@@ -7,12 +7,12 @@ export const router = createRouter({
     routes: [
         {
             path: '/', name: 'Home', component: Home, meta: {
-                title: '首页'
+                title: 'front page'
             }
         },
         {
             path: '/block', name: 'Block', component: Block, meta: {
-                title: '违规图片'
+                title: 'Forbidden pictures'
             }
         },
         {path: '/:pathMatch(.*)*', redirect: '/'},
