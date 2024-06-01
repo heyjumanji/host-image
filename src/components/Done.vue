@@ -54,7 +54,7 @@ const markdownUrl = computed(() => {
 const copyText = (text:string) => {
   copy(text)
   ElMessage({
-    message: '复制图片地址成功！',
+    message: 'Copied image address successfully！',
     type: 'success',
   })
 }
