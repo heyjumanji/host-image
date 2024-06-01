@@ -49,9 +49,9 @@ const markdownUrl = computed(() => {
   return `![img](${url.value})`
 })
 
-  const htmlUrl = computed(() => {
-    return `<img src="${url.value}" alt="img">`
-  })
+const htmlUrl = computed(() => {
+  return `<img src="${url.value}" alt="img">`
+})
 
 
 
