@@ -1,4 +1,4 @@
-![img](https://host-image.pages.dev/file/70cabc17ed791e5ea3f4c.png)
+![img](https://host-image.pages.dev/file/bfa09e0bca60e9c0f9725.jpg)
 
 # Host Image
 
