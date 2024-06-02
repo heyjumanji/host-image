@@ -22,7 +22,9 @@ site: https://host-image.pages.dev/
 
 ## Screenshot
 
-![img](https://host-image.pages.dev/file/83ee788b99cfb15a340ce.png)
+![img](https://host-image.pages.dev/file/449c434c8f7475f65223a.png)
+
+![img](https://host-image.pages.dev/file/899549a3de628b696f17d.png)
 
 ## Supported Formats:
 
