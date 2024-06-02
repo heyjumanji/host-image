@@ -8,7 +8,7 @@
       <Upload/>
     </div>
     <div class="footer">
-      based on <a href="https://telegra.ph" target="_blank">Telegraph</a> Image upload tool, UI comes from<a href="https://github.com/cf-pages/Telegraph-Image" target="_blank">Telegraph-Image</a>
+      Made with <3 based on <a href="https://telegra.ph" target="_blank">Telegraph</a> | Copyright @2024 - JumanJi</a>
     </div>
   </div>
 </template>
