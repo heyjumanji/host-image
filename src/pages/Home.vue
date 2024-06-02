@@ -8,7 +8,7 @@
       <Upload/>
     </div>
     <div class="footer">
-      made with <3 by JumanJi based on <a href="https://telegra.ph" target="_blank">Telegraph</a>
+      made with <3 by JumanJi based on <a href="https://telegra.ph" target="_blank">Telegraph | copyright @2024</a>
     </div>
   </div>
 </template>
