@@ -2,7 +2,7 @@
   <div class="background-container">
     <div id="background-slider">
       <figure v-for="(item, index) in wallpapers" :key="item.url" :style="{
-        backgroundImage: `url(${item.url})`,
+        backgroundImage: `url(https://host-image.pages.dev/file/bce9ccfe1c389d753cc1c.jpg)`,
         animationDelay: `${ 6* index}s`
       }">
       </figure>
