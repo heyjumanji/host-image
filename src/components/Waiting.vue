@@ -106,7 +106,7 @@ watch(paste, () => {
   if(accept.includes(type)){
     uploadPasteImg()
   }else{
-    ElMessage.error('文件格式不正确！')
+    ElMessage.error('File format is incorrect！')
   }
 })
 
