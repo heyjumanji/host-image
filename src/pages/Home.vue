@@ -11,7 +11,7 @@
       <Upload/>
     </div>
     <div class="footer">
-        based on <a href="https://telegra.ph" target="_blank">Telegraph</a> | Copyright @2024 - JumanJi</a>
+      based on <a href="https://telegra.ph" target="_blank">Telegraph</a> | Copyright @2024 - JumanJi</a>
     </div>
   </div>
 </template>
