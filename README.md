@@ -1,6 +1,9 @@
 # Host Image
 
-**Free image hosting, using Cloudflare Pages and Telegraph, UI and Cloudflare Functions from [here](https://github.com/cf-pages/Telegraph-Image)**
+
+Hey an easy solution for your website and even github pages for displaying images or gifs without storing in your device. 
+
+Just upload and make use the universal link to share your media with anyone for free and unlimited storage uploads.
 
 site: https://host-image.pages.dev/
 
@@ -22,4 +25,18 @@ site: https://host-image.pages.dev/
 
 - [x] URL
 - [x] Markdown
-- [x] HTML
+- [ ] HTML
+
+## Contribution:
+
+Contribution are open and you can help improve the project by creating a pull request to deploy your changes and implement in this site!
+
+## Star ⭐ The Project!
+
+If you like using Host-Image please consider to give a star ⭐ to help us to reach to more people.
+
+## Special Thanks (⁠ ⁠˘⁠ ⁠³⁠˘⁠)⁠♥
+
+Powered by Cloudflare Pages and Telegraph
+
+**UI and Cloudflare Functions from [here](https://github.com/cf-pages/Telegraph-Image)**
