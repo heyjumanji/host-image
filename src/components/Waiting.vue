@@ -20,7 +20,7 @@
       </div>
       <div class="text-area">
         <span>
-          You can directly take a screenshot and paste or drag it here & support uploads only gif、jpeg、jpg、png，Picture limit is within 5M
+          You can directly take a screenshot and paste or drag it here & support uploads only gif、jpeg、jpg、png，Picture limit is within 5MB
         </span>
       </div>
       <div class="upload-btn">
@@ -63,7 +63,7 @@ const onBeforeUpload = async (raw: any) => {
   let result = raw
   if(raw.size > MAX_SIZE){
     if(!compress.value){
-      ElMessage.error('图片大小不能超过 5MB！')
+      ElMessage.error('Image size cannot exceed 5MB！')
       return false
     }else{
       result =  await compressFile(raw)
