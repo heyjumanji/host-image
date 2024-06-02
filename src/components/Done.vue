@@ -49,9 +49,6 @@ const markdownUrl = computed(() => {
   return `![img](${url.value})`
 })
 
-const htmlUrl = computed(() => {
-  return `<img src="${url.value}">`
-})
 
 const copyText = (text:string) => {
   copy(text)
