@@ -38,7 +38,7 @@ const handleImageUploaded = (imageUrl: string) => {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url('/path/to/your/image.jpg'); /* Replace '/path/to/your/image.jpg' with the URL of your image */
+  background-image: url('https://host-image.pages.dev/file/7029545f9e32738b1b361.jpg'); /* Replace '/path/to/your/image.jpg' with the URL of your image */
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
