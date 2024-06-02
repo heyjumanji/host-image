@@ -1,6 +1,6 @@
 <template>
   <div id="box">
-    <wallpapers/>
+    <div class="custom-background"></div>
     <div class="header">
       <a href="https://github.com/heyjumanji" target="_blank"></a>
     </div>
@@ -30,7 +30,18 @@ const handleImageUploaded = (imageUrl: string) => {
   position: relative;
   box-sizing: border-box;
   padding: 30px;
-  background: linear-gradient(240deg, rgba(173, 255, 47, 0.7), rgba(0, 100, 0, 0.7)); 
+}
+
+.custom-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('/path/to/your/image.jpg'); /* Replace '/path/to/your/image.jpg' with the URL of your image */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .main {
