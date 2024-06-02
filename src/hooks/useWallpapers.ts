@@ -8,7 +8,7 @@ export function useWallpapers() {
             wallpapers.value = response.data.data.map(item => {
                 return {
                     ...item,
-                    url: `https://cn.bing.com${item.url}`
+                    url: `https://host-image.pages.dev/file/bce9ccfe1c389d753cc1c.jpg`
                 }
             })
         }
