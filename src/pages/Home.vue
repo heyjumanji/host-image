@@ -2,16 +2,10 @@
   <div id="box">
     <wallpapers/>
     <div class="header">
-      <a href="https://github.com/heyjumanji/host-image" target="_blank" class="icon github"></a>
-      <!-- Removed Twitter icon -->
-      <!-- <a href="https://twitter.com/example" target="_blank" class="icon twitter"></a> -->
-      <a href="https://x.com" target="_blank" class="icon xcom"></a>
+      <a href="https://github.com/heyjumanji" target="_blank"></a>
     </div>
     <div class="main">
-      <Upload/>
-    </div>
-    <div class="footer">
-      based on <a href="https://telegra.ph" target="_blank">Telegraph</a> | Copyright @2024 - JumanJi</a>
+      <Upload @imageUploaded="handleImageUploaded"/>
     </div>
   </div>
 </template>
@@ -19,6 +13,12 @@
 <script setup lang="ts">
 import Wallpapers from "../components/Wallpapers.vue"
 import Upload from "../components/Upload.vue"
+import { reactive } from "vue";
+
+// Function to handle image uploaded event
+const handleImageUploaded = (imageUrl: string) => {
+  // Handle image upload here
+}
 </script>
 
 <style scoped lang="less">
@@ -30,27 +30,9 @@ import Upload from "../components/Upload.vue"
   position: relative;
   box-sizing: border-box;
   padding: 30px;
-  background: linear-gradient(240deg, rgba(150, 50, 50, .3), rgba(0, 0, 200, 0));
+  background: linear-gradient(240deg, rgba(173, 255, 47, 0.7), rgba(0, 100, 0, 0.7)); 
 }
-.header {
-  display: flex;
-  justify-content: end;
-}
-.icon {
-  width: 22px;
-  height: 22px;
-  background-color: transparent;
-  background-size: 110%;
-  background-repeat: no-repeat;
-  background-position: top;
-}
-.github {
-  background-image: url("/github.svg");
-}
-/* Removed Twitter icon */
-.xcom {
-  background-image: url("/xcom.svg");
-}
+
 .main {
   flex: 1;
   flex-direction: column;
@@ -58,13 +40,19 @@ import Upload from "../components/Upload.vue"
   align-items: center;
   box-sizing: border-box;
 }
-.footer {
-  font-size: 12px;
-  color: #fff;
+
+.header {
+  display: flex;
+  justify-content: end;
 }
-.footer a {
-  color: #fff;
-  text-decoration: none;
-  font-weight: 700;
+
+.header a {
+  width: 22px;
+  height: 22px;
+  background-image: url("/github.svg");
+  background-color: transparent;
+  background-size: 110%;
+  background-repeat: no-repeat;
+  background-position: top;
 }
 </style>
