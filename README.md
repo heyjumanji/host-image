@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.cloudflare.com/">
-    <img alt="Hosted on Cloudflare" src="https://img.shields.io/badge/hosted%20on-cloudflare-orange.svg" />
+    <img src="https://deploy-badge.vercel.app/?url=http%3A%2F%2Fwww.nextjs.org&logo=Cloudflare&name=cloudflare" alt="Website Deploy"></img>
   </a>
   <a href="https://github.com/heyjumanji/host-image/pulls">
     <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/heyjumanji/host-image.svg" />
