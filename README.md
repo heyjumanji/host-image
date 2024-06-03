@@ -1,5 +1,20 @@
 ![img](https://host-image.pages.dev/file/bfa09e0bca60e9c0f9725.jpg)
 
+<p align="center">
+  <a href="https://www.cloudflare.com/">
+    <img alt="Hosted on Cloudflare" src="https://img.shields.io/badge/hosted%20on-cloudflare-orange.svg" />
+  </a>
+  <a href="https://github.com/heyjumanji/host-image/pulls">
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/heyjumanji/host-image.svg" />
+  </a>
+  <a href="https://github.com/heyjumanji/host-image/graphs/contributors">
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/heyjumanji/host-image.svg" />
+  </a>
+  <a href="https://github.com/heyjumanji/host-image/issues">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/heyjumanji/host-image.svg" />
+  </a>
+</p>
+
 # Host Image
 
 Hey an easy solution for your website and even github pages for displaying images or gifs without storing in your device. 
