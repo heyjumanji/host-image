@@ -64,14 +64,14 @@
 
 Contribution are open and you can help improve the project by creating a pull request to deploy your changes and implement in this site!
 
-## Encounter Any Issues?
-
-No worries open a issue in [here](https://github.com/heyjumanji/host-image/issues) also join the Discord community below for contact and get help from me!
-
 ## Discover More & Participate
 
 Join **JumanJi's** community and discover more resources and participate in the chat to discuss more development stuff and projects.
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/mGuSkWHb2f)](https://discord.gg/mGuSkWHb2f)
+
+## Encounter Any Issues?
+
+No worries open an issue in [here](https://github.com/heyjumanji/host-image/issues) and also join the Discord community above 🌱 to contact me and get help from the community.
 
 ---
