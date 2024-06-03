@@ -15,6 +15,9 @@
   <a href="https://github.com/heyjumanji/host-image/issues">
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/heyjumanji/host-image.svg" />
   </a>
+  <a href="https://github.com/heyjumanji/host-image/stars">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/heyjumanji/host-image.svg" />
+  </a>
 </p>
 
 
