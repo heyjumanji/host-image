@@ -66,7 +66,7 @@ Contribution are open and you can help improve the project by creating a pull re
 
 ## Encounter Any Issues?
 
-No worries open a issue in [here]() also join the Discord community below for contact and get help from me!
+No worries open a issue in [here](https://github.com/heyjumanji/host-image/issues) also join the Discord community below for contact and get help from me!
 
 ## Discover More & Participate
 
