@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <a href="https://host-image.pages.dev/">Visit Host Image</a>
+  <a href="https://host-image.is-a.dev/">Visit Host Image</a>
 </p>
 
 
