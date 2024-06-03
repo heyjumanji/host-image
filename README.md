@@ -15,15 +15,24 @@
   </a>
 </p>
 
-# Host Image
+<p align="center">
+  <img src="https://link.to.your.image" alt="Host Image">
+</p>
 
-Hey an easy solution for your website and even github pages for displaying images or gifs without storing in your device. 
+<h1 align="center">Host Image</h1>
 
-Just upload and make use the universal link to share your media with anyone for free and unlimited storage uploads.
+<p align="center">
+  An easy solution for your website and even GitHub pages for displaying images or GIFs without storing on your device. Just upload and make use of the universal link to share your media with anyone for free and unlimited storage uploads.
+</p>
 
-If you like using Host-Image please consider to give a star ⭐ to help us to reach to more people.
+<p align="center">
+  If you like using Host Image, please consider giving us a star ⭐ to help us reach more people.
+</p>
 
-site: https://host-image.pages.dev/
+<p align="center">
+  <a href="https://host-image.pages.dev/">Visit Host Image</a>
+</p>
+
 
 ## Feature
 
