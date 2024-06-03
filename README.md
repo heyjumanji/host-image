@@ -64,3 +64,8 @@
 
 Contribution are open and you can help improve the project by creating a pull request to deploy your changes and implement in this site!
 
+## Discover More & Participate
+
+Join **JumanJi's** community and discover more resources and participate in the chat to discuss more development stuff and projects.
+
+[![Join our Discord server!](https://invidget.switchblade.xyz/mGuSkWHb2f)](https://discord.gg/mGuSkWHb2f)
