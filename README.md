@@ -1,4 +1,6 @@
-![img](https://host-image.pages.dev/file/bfa09e0bca60e9c0f9725.jpg)
+<p align="center">
+  <img src="https://host-image.pages.dev/file/bfa09e0bca60e9c0f9725.jpg" alt="Host Image">
+</p>
 
 <p align="center">
   <a href="https://www.cloudflare.com/">
@@ -15,9 +17,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://link.to.your.image" alt="Host Image">
-</p>
 
 <h1 align="center">Host Image</h1>
 
