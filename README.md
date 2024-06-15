@@ -60,7 +60,7 @@
 - [x] Markdown
 - [ ] HTML
 
-## How to Contribution?
+## How to Contribute?
 
 Contribution are open and you can help improve the project by creating a pull request to deploy your changes and implement in this site!
 
