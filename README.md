@@ -74,4 +74,12 @@ Join **JumanJi's** community and discover more resources and participate in the 
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/mGuSkWHb2f)](https://discord.gg/mGuSkWHb2f)
 
+## Contributors
+
+<a href="https://github.com/heyjumanji/host-image/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=heyjumanji/host-image"/>
+</a>
+  
+Made with :heart: By JumanJi
+
 ---
